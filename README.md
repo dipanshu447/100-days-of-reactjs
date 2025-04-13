@@ -9,7 +9,7 @@ This challenge isn’t just about coding it’s about consistency, growth, and c
 Rules for My 100 Days of Code Challenge:
 
 1. **3 Hours a Day** - Commit to at least 3 hours of coding every day, no matter what.
-2. **No Backing Out** - This challenge is a promise to myself — no excuses.
+2. **No Backing Out** - This challenge is a promise to myself, so no excuses.
 3. **Build, Don’t Just Learn** - Focus on building projects, not just consuming tutorials.
 4. **Grouped Updates** - I’ll post updates every 5–7 days, so I can focus on learning, not posting.
 
