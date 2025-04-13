@@ -33,8 +33,8 @@ Rules for My 100 Days of Code Challenge:
 
 I'll be actively sharing my progress, logs, and key takeaways throughout the 100 Days of Code challenge on these platforms:
 <div style="display:flex">
-  <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=ffffff" width=50/>
-  <img src="https://img.icons8.com/?size=100&id=AS2a6aA9BwK3&format=png&color=ffffff" width=50/>
+  <a href="https://x.com/dipanshuu_sahu"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=ffffff" width=50/></a>
+  <a href="https://www.threads.net/@dipanshuu447"><img src="https://img.icons8.com/?size=100&id=AS2a6aA9BwK3&format=png&color=ffffff" width=50/></a>
 </div>
 Follow along to see what I’m building and learning and feel free to connect!
 
