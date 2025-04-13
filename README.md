@@ -1,4 +1,4 @@
-# 100 Days of React
+# 100 Days of Reactjs
 
 ![Banner Image](https://github.com/dipanshu447/100-days-of-react/blob/main/assets/banner.png)
 
