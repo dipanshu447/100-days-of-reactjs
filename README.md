@@ -41,3 +41,15 @@ Follow along to see what I’m building and learning and feel free to connect!
 ---
 
 # 100DaysOfCode Day-to-Day Progress
+
+## Day 1 Log
+
+- Learned the difference between JavaScript **frameworks** and **libraries**
+- Understood how React works under the hood with the DOM
+- Got introduced to **JSX** writing HTML-like syntax inside JavaScript
+- Understood why **component names must start with a capital letter**
+- Created my first **React component** and rendered it to the DOM
+- Learned how **Vite** helps set up a fast development environment for React
+- Got familiar with the **React project file structure**
+
+> *Logged on: April 14, 2025*
