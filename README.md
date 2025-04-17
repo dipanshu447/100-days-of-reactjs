@@ -77,3 +77,11 @@ Today was all about getting comfortable with the React environment, JSX syntax, 
 - Image importing in React (`import logo from './assets/react.svg'`)
 
 > *Logged on: April 16, 2025*
+
+## Day 4 Log
+
+![Practice Page](./Day-04/prac.png)
+
+Just worked on this page and played around react components. Tommarow I will learn how to use props in components to make it more dynamic instead of being hard coded.
+
+> *Logged on: April 17, 2025*
