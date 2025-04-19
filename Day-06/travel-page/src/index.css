@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: inter;
+}
+
+main {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  color: black;
+  gap: 30px;
+}
+
+header {
+  display: flex;
+  padding: 20px;
+  background-color: #F55A5A;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  font-size: 1.05rem;
+  gap: 7px;
+  color: white;
+}
+
+nav img {
+  width: 30px;
+}
+
+article {
+  display: flex;
+  gap: 30px;
+}
+
+article > img {
+  width: 250px;
+  height: 320px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.details {
+  padding: 40px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.location-details {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.location {
+  display: flex;
+  gap: 10px;
+}
+
+.location a {
+  color: #918E9B;
+  font-size: 15px;
+}
+
+.location .country {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.location .country img {
+  width: 12.5px;
+}
+
+.location-details h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.dates {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.about {
+  font-size: 15px;
+  font-weight: 400;
+  color: #2B283A;
+  line-height: 1.5rem;
+}

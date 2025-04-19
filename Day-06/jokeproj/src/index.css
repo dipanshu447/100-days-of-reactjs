@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  background-color: #242424;
+  color: white;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1{
+  margin-bottom: 20px;
+}
+
+p{
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.joke {
+  padding: 20px;
+  background-color: rgb(90, 90, 90);
+  border-radius: 25px;
+  margin-bottom: 20px;
+  max-width: 500px;
+}
+
+.votes {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+  align-items: center;
+}
+
+.vote {
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 3px;
+}
+
+.vote p {
+  font-size: 16px;
+}
+
+.vote img {
+  width: 30px;
+}
