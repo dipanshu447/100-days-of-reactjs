@@ -40,5 +40,29 @@ Follow along to see what I’m building and learning and feel free to connect!
 
 ---
 
-# 100DaysOfCode Day-to-Day Progress
+## Featured Projects
 
+Here are some of the mini-projects I’ve built so far during this challenge. Each one reflects concepts I’ve learned and practiced.
+
+<table>
+  <tr>
+    <th>Days</th>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Day 6</td>
+    <td><b>Travel Journal</b></td>
+    <td>Designed a static travel journal page with individual travel entries passed via <i>props</i>.</td>
+    <td><a href="https://github.com/dipanshu447/100-days-of-reactjs/tree/main/Day-06">View Folder →</a></td>
+  </tr>
+  <tr>
+    <td>Day 07 & 08</td>
+    <td><b>User List App</b></td>
+    <td>Built a beautiful user list UI with <i>.map()</i> and <i>props</i>. Dynamically renders cards from <i>data.js</i>.</td>
+    <td><a href="https://github.com/dipanshu447/100-days-of-reactjs/tree/main/Day-07_%26_08">View Folder →</a></td>
+  </tr>
+</table>
+
+> More projects will be added as I dive into event handling, `useState`, and dynamic interactivity!
