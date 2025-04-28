@@ -18,4 +18,4 @@
   - Noted that for fields like checkboxes (with multiple selections), `.getAll()` should be used to collect all values properly.
 - Practiced creating real-form handling flows with checkboxes, radio buttons, selects, and text inputs.
 
-> *Logged on: April 26, 2025*
+> *Logged on: April 27, 2025*
