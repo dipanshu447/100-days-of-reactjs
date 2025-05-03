@@ -63,6 +63,10 @@ Here are some of the mini-projects I’ve built so far during this challenge. Ea
     <td>Built a beautiful user list UI with <i>.map()</i> and <i>props</i>. Dynamically renders cards from <i>data.js</i>.</td>
     <td><a href="https://github.com/dipanshu447/100-days-of-reactjs/tree/main/Day-07_%26_08">View Folder →</a></td>
   </tr>
+  <tr>
+    <td>Day 08 to 18</td>
+    <td><b>Chef Claude - AI Recipe Generator</b></td>
+    <td>Built a smart recipe suggestion tool using Hugging Face’s Mixtral model. Takes ingredients and generates a recipe with AI integration.</td>
+    <td><a href="https://github.com/dipanshu447/100-days-of-reactjs/tree/main/Day-18">View Folder →</a></td>
+  </tr>
 </table>
-
-> More projects will be added as I dive into event handling, `useState`, and dynamic interactivity!
