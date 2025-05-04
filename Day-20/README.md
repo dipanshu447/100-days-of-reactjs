@@ -1,4 +1,4 @@
-# Day 19 Log
+# Day 20 Log
 
 - Learned about `useEffect()` in React and how it works with the dependency array.
 - Understood how `useEffect(() => {..}, [])` is similar to `componentDidMount()` in class components.
