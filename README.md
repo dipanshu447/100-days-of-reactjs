@@ -69,4 +69,10 @@ Here are some of the mini-projects I’ve built so far during this challenge. Ea
     <td>Built a smart recipe suggestion tool using Hugging Face’s Mixtral model. Takes ingredients and generates a recipe with AI integration.</td>
     <td><a href="https://github.com/dipanshu447/100-days-of-reactjs/tree/main/Day-18">View Folder →</a></td>
   </tr>
+  <tr>
+    <td>Day 19 to 21</td>
+    <td><b>Meme Generator</b></td>
+    <td>Created a meme generator with top/bottom text overlays, fetching meme image via the <i>Imgflip API</i>. Added a <i>download as PNG</i> feature using <i>html2canvas</i>.</td>
+    <td><a href="https://github.com/dipanshu447/100-days-of-reactjs/tree/main/Day-21">View Folder →</a></td>
+  </tr>
 </table>
