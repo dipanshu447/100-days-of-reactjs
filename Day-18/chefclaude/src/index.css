@@ -131,8 +131,8 @@ form button::before{
   margin-bottom: 8px;
 }
 
-.suggested-recipe-container > h3{
-  margin: 8px 0px;
+.suggested-recipe-container > h2{
+  margin: 10px 0px;
 }
 
 .suggested-recipe-container strong{
