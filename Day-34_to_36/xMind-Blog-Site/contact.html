@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>xMind</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary border-bottom" data-bs-theme="dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">xMind</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link" aria-current="page" href="./index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./about.html">About</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                            aria-expanded="false">
+                            Topics
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" href="#">Natire</a></li>
+                            <li><a class="dropdown-item" href="#">Psychology</a></li>
+                            <li><a class="dropdown-item" href="#">Lifestyle</a></li>
+                            <li><a class="dropdown-item" href="#">Philosophy</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="./contact.html">Contact Us</a>
+                    </li>
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container my-4 d-flex flex-column">
+        <h1 class="my-4">Contact Us</h1>
+        <form>
+            <div class="form-floating mb-3">
+                <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                <label for="floatingInput">Email address</label>
+            </div>
+            <div class="form-floating">
+                <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+                <label for="floatingPassword">Password</label>
+            </div>
+            <div class="my-4 mb-3">
+                <select class="form-select" aria-label="Default select example">
+                    <option selected disabled>What's your query about?</option>
+                    <option value="1">General Feedback</option>
+                    <option value="2">Report a Bug or Issue</option>
+                    <option value="3">Content Suggestions</option>
+                    <option value="4">Collaboration or Guest Post</option>
+                    <option value="5">Advertisement or Sponsorship</option>
+                    <option value="6">Copyright or Content Concern</option>
+                    <option value="7">Just Saying Hi 👋</option>
+                </select>
+            </div>
+            <div class="my-4 mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label">Elaborate your concerns</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            </div>
+            <div class="mb-3">
+                <label for="inputGroupFile01" class="form-label" for="inputGroupFile01">Attach a file or screenshot (optional)</label>
+                <input type="file" class="form-control" id="inputGroupFile01">
+            </div>
+            <div class="form-check form-switch my-4">
+                <input class="form-check-input" type="checkbox" role="switch" id="switchCheckDefault">
+                <label class="form-check-label" for="switchCheckDefault">Are you our pro member?</label>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+
+    <footer class="px-4 pt-4 my-md-5 pt-md-5 border-top">
+        <div class="row">
+            <div class="col-12 col-md"><small class="d-block mb-3 text-body-secondary">© 2017–2025 xMind
+                    Inc.</small> </div>
+            <div class="col-6 col-md">
+                <h5>Explore</h5>
+                <ul class="list-unstyled text-small">
+                    <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Featured
+                            Stories</a>
+                    </li>
+                    <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Trending Topics</a>
+                    </li>
+                    <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Editor's Picks</a>
+                    </li>
+                    <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Deep Dives</a></li>
+                    <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Random Post</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-6 col-md">
+                <h5>Resources</h5>
+                <ul class="list-unstyled text-small">
+                    <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Writing Tips</a>
+                    </li>
+                    <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Blogging Tools</a>
+                    </li>
+                    <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Free Images</a>
+                    </li>
+                    <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Submit a Story</a>
+                    </li>
+                    <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Newsletter</a></li>
+                </ul>
+            </div>
+            <div class="col-6 col-md">
+                <h5>About</h5>
+                <ul class="list-unstyled text-small">
+                    <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Our Story</a></li>
+                    <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Meet the Team</a>
+                    </li>
+                    <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Privacy Policy</a>
+                    </li>
+                    <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Terms &
+                            Conditions</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
