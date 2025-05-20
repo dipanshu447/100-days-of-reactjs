@@ -81,4 +81,10 @@ Here are some of the mini-projects I’ve built so far during this challenge. Ea
    <td>A clean and minimal productivity app featuring a Pomodoro timer and Todolist. Built using React. Enhanced with animations, minimalistic UI.</td> 
    <td><a href="https://github.com/dipanshu447/Focus-flow">View Repo →</a></td> 
   </tr>
+    <tr> 
+    <td>Day 34 to 36</td> 
+    <td><b>xMind Blog Website</b></td> 
+    <td>A responsive blog layout built using pure Bootstrap 5. Includes carousel, featurettes, blog cards, and a contact form.</td> 
+    <td><a href="https://github.com/dipanshu447/100-days-of-reactjs/tree/main/Day-34_to_36">View Repo →</a></td> 
+  </tr>
 </table>
