@@ -88,7 +88,7 @@ Here are some of the mini-projects I’ve built so far during this challenge. Ea
     <td><a href="https://github.com/dipanshu447/100-days-of-reactjs/tree/main/Day-34_to_36">View Repo →</a></td> 
   </tr>
    <tr> 
-    <td>Day 37 to 41</td> 
+    <td>Day 40 & 41</td> 
     <td><b>Tenzies Game</b></td> 
     <td>A React implementation of the Tenzies game. Includes dice holding, re-roll logic, confetti on win, and high score tracking with <i>localStorage</i>.</td> 
     <td><a href="https://github.com/dipanshu447/100-days-of-reactjs/tree/main/Day-40_%26_41">View Folder →</a></td> 
