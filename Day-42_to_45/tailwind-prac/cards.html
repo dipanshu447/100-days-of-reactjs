@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+</head>
+
+<body>
+    <nav class="flex w-full h-auto flex-col flex-wrap sm:flex-row gap-2 justify-between bg-black p-4 text-white">
+        <h1 class="text-lg font-bold">Comp Inc.</h1>
+        <ul class="flex flex-col sm:space-x-4 sm:flex-row">
+            <li class="p-2 sm:p-0">Home</li>
+            <li class="p-2 sm:p-0">About me</li>
+            <li class="p-2 sm:p-0">Contact Us</li>
+            <li class="p-2 sm:p-0">Pricing</li>
+        </ul>
+    </nav>
+    <main class="box-border flex w-full flex-wrap gap-8 bg-gray-200 p-10 flex-col items-center sm:flex-row ">
+        <div class="flex h-auto w-60 flex-col overflow-hidden rounded-xl bg-white shadow-lg">
+            <img class="h-52 rounded-br-4xl object-cover"
+                src="https://i.pinimg.com/736x/c3/26/96/c32696ee345b221d424362d6bbc11334.jpg" alt="cardImage" />
+            <div class="-mt-6 flex flex-col space-y-2 rounded-tl-4xl bg-white p-4 text-justify">
+                <span class="text-lg font-extrabold text-gray-700">Chicken Taste Event</span>
+                <p class="text-sm">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus porro optio
+                    psum dolor, sit amet consectetur adipisicing elit. Necessitatibus porro optiovoluptatibus...</p>
+            </div>
+        </div>
+
+        <div class="flex flex-col sm:flex-row w-full sm:max-w-2xl h-auto overflow-hidden rounded-4xl bg-white">
+            <div class="sm:w-1/3">
+                <img class="object-cover h-48 sm:h-full w-full"
+                    src="https://i.pinimg.com/736x/d1/2e/f6/d12ef6986481d8accaba28440b4839ec.jpg" alt="image">
+            </div>
+            <div class="p-6 sm:p-6 sm:w-2/3">
+                <h1 class="text-2xl font-bold mb-3 sm:mb-4">Basic Card Heading</h1>
+                <p class="text-gray-700 text-justify">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto
+                    soluta officiis vel? Beatae a dolore dolores, voluptates doloremque, excepturi odit, esse
+                    necessitatibus.</p>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>
