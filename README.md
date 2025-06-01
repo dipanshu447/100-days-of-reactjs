@@ -93,4 +93,10 @@ Here are some of the mini-projects I’ve built so far during this challenge. Ea
     <td>A React implementation of the Tenzies game. Includes dice holding, re-roll logic, confetti on win, and high score tracking with <i>localStorage</i>.</td> 
     <td><a href="https://github.com/dipanshu447/100-days-of-reactjs/tree/main/Day-40_%26_41">View Folder →</a></td> 
   </tr>
+    <tr> 
+    <td>Day 46 to 48</td> 
+    <td><b>Assembly: Endgame</b></td> 
+    <td>A dynamic word-guessing game made in React, styled with Tailwind. Features include user input validation, endgame hints using <code>useMemo</code>, and letter reveal logic.</td> 
+    <td><a href="https://github.com/dipanshu447/100-days-of-reactjs/tree/main/Day-46_to_48">View Folder →</a></td> 
+  </tr>
 </table>
