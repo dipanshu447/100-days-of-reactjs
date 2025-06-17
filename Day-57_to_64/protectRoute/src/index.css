@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+  padding: 50px;
+}
+
+.box {
+  text-align: center;
+  width: 100%;
+  padding: 10px;
+}
+
+.box h2 {font-size:70px;}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
