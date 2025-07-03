@@ -99,4 +99,10 @@ Here are some of the mini-projects I’ve built so far during this challenge. Ea
     <td>A dynamic word-guessing game made in React, styled with Tailwind. Features include user input validation, endgame hints using <code>useMemo</code>, and letter reveal logic.</td> 
     <td><a href="https://github.com/dipanshu447/100-days-of-reactjs/tree/main/Day-46_to_48">View Folder →</a></td> 
   </tr>
+   <tr> 
+    <td>Day 49 to 80</td> 
+    <td><b>VanLife</b></td> 
+    <td>A full-featured camper rental web app inspired from Scirmba cource project. Built with React, React Router, Tailwind CSS and MirageJS. Includes protected routes, dynamic layouts, loaders, and beautiful loading skeletons.</td> 
+    <td><a href="https://github.com/dipanshu447/100-days-of-reactjs/tree/main/Day-50_to_80">View Folder →</a></td> 
+  </tr>
 </table>
