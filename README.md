@@ -105,4 +105,10 @@ Here are some of the mini-projects I’ve built so far during this challenge. Ea
     <td>A full-featured camper rental web app inspired from Scirmba cource project. Built with React, React Router, Tailwind CSS and MirageJS. Includes protected routes, dynamic layouts, loaders, and beautiful loading skeletons.</td> 
     <td><a href="https://github.com/dipanshu447/VanLife">View Project →</a></td> 
   </tr>
+    <tr> 
+    <td>Day 73 to 88</td> 
+    <td><b>Build Discord App - CLI Tool</b></td> 
+    <td>A developer-friendly CLI that scaffolds a production-ready Discord bot in under 4 minutes. Built using Node.js, Clack.js, Degit, and more. Templates hosted on GitHub and fetched dynamically via the tool. Includes interactive prompts, auto-config, and smart folder handling.</td> 
+    <td><a href="https://github.com/dipanshu447/build-discord-app">View Repo →</a></td> 
+  </tr>
 </table>
